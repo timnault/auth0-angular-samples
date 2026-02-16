@@ -1,8 +1,8 @@
 {
-  "domain": "https://dev-lrri2310xjkt3w0c.us.auth0.com",
+  "domain": "dev-lrri2310xjkt3w0c.us.auth0.com",
   "clientId": "HxaWEaYp83Siqq0ND6Gv1DFNEIn12nKA",
   "authorizationParams": {
-    "audience": "https://dev-lrri2310xjkt3w0c.us.auth0.com/api/v2/"
+    "audience": "dev-lrri2310xjkt3w0c.us.auth0.com/api/v2/"
   },
   "apiUri": "http://localhost:3001",
   "appUri": "http://localhost:4200",
